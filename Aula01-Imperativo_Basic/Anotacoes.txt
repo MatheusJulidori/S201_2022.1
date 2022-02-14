@@ -1,0 +1,20 @@
+Caracteristicas das linguagens imperativas:
+
+Execução baseada em comandos em ordem
+Atribuição e declaração de variáveis
+Expressões
+Comandos Condicionais
+Laços de repetições
+
+Basic:
+Toda linha começa com um numero que segue de 10 em 10 com
+
+10 LET X = 77
+20 LET Y = 78
+30 LET RES = X + Y
+
+10 LET a[];
+
+10 GOTO 30 
+
+10 IF X > 0 THEN PRINT "Afirmativo" ELSE PRINT "Negativo"
