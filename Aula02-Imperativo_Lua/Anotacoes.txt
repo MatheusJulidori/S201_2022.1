@@ -1,0 +1,42 @@
+Case sensitive 
+Comentarios feitos com -- 
+Variável nula = nil 
+
+Declarações:
+
+x = 3 (global)
+local x = 3 (local)
+
+
+print(x)
+
+x = io.read()
+
+concatenar strings:
+
+print('aaaa'..'bbbbb')
+
+tostring() -> casting para strings
+tonumber() -> casting para numero
+
+
+if condition then
+...
+else if condition then 
+... 
+else 
+... 
+end 
+
+SINAL DE DIFERENTE:
+~=
+
+Estruturas de repetiçao:
+while
+for
+repeat
+
+
+
+Arrays:
+Começa com indice 1
