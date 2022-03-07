@@ -1,0 +1,17 @@
+Fundado em 2010, criado pelo Mozilla;
+
+Mais próximo do baixo nível. Porquanto, ela é mais rápida e, além disso, é mais segura, pois trabalhou nas falhas de seguranças do C e C++ do
+
+Possui diversos frameworks, bons para Game dev, Web Dev e Sistemas operacionais
+
+Usado em:
+Dropbox, Figma, Discord, Amazon e NMP
+
+Caracteristicas: 
+    - Não possui garmage collector
+    - Case sensitive
+    - Tipagem estática 
+    - Uso de ponteiros
+    - Compilador extremamente inteligente e documentação ampla
+
+Por padrão, é imutavel, ou seja, tudo é const se não colocar let "mut" -> onde mut significa ser mutavel
