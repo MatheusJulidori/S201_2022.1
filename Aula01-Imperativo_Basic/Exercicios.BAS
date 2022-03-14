@@ -17,4 +17,3 @@
 30 LET RES = NUM1 - NUM2 *-1 (SOMA VAI SOMAR STRING)
 40 PRINT RES
 
-'https://replit.com/@MatheusJulidori/Aula1Basic#program.bas

@@ -18,3 +18,5 @@ Toda linha começa com um numero que segue de 10 em 10 com
 10 GOTO 30 
 
 10 IF X > 0 THEN PRINT "Afirmativo" ELSE PRINT "Negativo"
+
+https://replit.com/@MatheusJulidori/Aula1Basic#program.bas

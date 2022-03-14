@@ -1,0 +1,43 @@
+- Open source software
+- indicada para servidores
+- Criada pelo google, rapida como C, facil como Javascript
+- Tipagem estática
+- Possui Garbage collector
+- Testes unitarios simplificados
+- programação em concorrência simplificada
+- Usado pelo Paypall, Riot Games, Google
+
+Declaração de variavel
+Exemplo 1:
+var x = 3
+
+Exemplo 2(caso seja necessário especificar o tipo)
+var z string 
+
+exeplo 3(resumido)
+x := 3
+
+tipos de dados:
+string
+bool   
+int
+float32
+
+import("fmt) -> para input e output
+
+exemplo de multipls imports
+
+import(
+    "fmt"
+    "math/rand"
+)
+
+print:
+fmt.Print("Hello world!")
+
+read:
+
+var z string 
+fmt.Scan(&z)
+
+https://replit.com/@MatheusJulidori/aula4Go

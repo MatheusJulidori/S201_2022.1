@@ -15,3 +15,5 @@ Caracteristicas:
     - Compilador extremamente inteligente e documentação ampla
 
 Por padrão, é imutavel, ou seja, tudo é const se não colocar let "mut" -> onde mut significa ser mutavel
+
+https://replit.com/@MatheusJulidori/Aula3Rust
