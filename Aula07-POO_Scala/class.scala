@@ -10,7 +10,11 @@ class Carro(modelox: String, marcax: String) {
 
 }
 
+object Hello {
+    def main(args: Array[String]) = {
+        var c1 = new Carro("Celta", "Chevrollet");
+        c1.andar(25000);
+    }
+}
 
-var c1 = new Carro("Celta", "Chevrollet");
-c1.andar(25000);
   
