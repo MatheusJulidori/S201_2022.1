@@ -1,0 +1,18 @@
+Não existem tipos de dados normais
+variaveis são para incógnita
+Variaveis são ou letra maiuscula ou começam com _
+
+
+
+
+Dizemos o que fazer, não como fazer
+
+Unidade básica:
+- predicado
+
+ex: Predicado irmaos
+elementos : jose, bob
+
+irmaos(jose,bob)
+
+rodar irmaos(Y,bob) retornaria Y = jose
