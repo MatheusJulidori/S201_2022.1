@@ -3,7 +3,7 @@ variaveis são para incógnita
 Variaveis são ou letra maiuscula ou começam com _
 
 
-
+https://swish.swi-prolog.org
 
 Dizemos o que fazer, não como fazer
 
