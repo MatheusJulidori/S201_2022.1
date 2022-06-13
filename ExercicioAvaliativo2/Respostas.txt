@@ -1,0 +1,25 @@
+Exercicio 1-
+Letra c) A linha 10 irá imprimir o último valor da lista b, que é o inverso da lista
+mappedFunction.
+
+Exercicio 2-
+FFVF
+
+Exercício 3-
+
+list = [1..30]
+sum2 x = x+2
+power2 x = x*x
+sum2list = map sum2 list
+power2list = map power2 sum2list
+reverseList = reverse power2list
+res = take 1 reverseList
+main = do
+  print(res)
+
+Exercicio 4-
+
+a) movie(M,Y), Y=>1996, movie(M,Z), Z=<2006.
+b) movie(M,Y), Y=>1999.
+c) movie(hail_caesar,Y).
+d) director(M,stephen_hillenburg)
